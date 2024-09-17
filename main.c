@@ -2,6 +2,7 @@
 Time Complexity: 
 O(n) where 
 n is the total number of characters in the file.
+
 Space Complexity: 
 O(l⋅c) where 
 l is the number of lines and 
